@@ -10,11 +10,7 @@ I enjoy building projects, learning new tools, and improving my skills through p
 ## 🛠️ Tech Stack & Skills
 - 💻 Languages: C, C++, Python, JavaScript  
 - 🌐 Web: HTML, CSS, React  
-- ⚙️ Tools: Git, GitHub, VS Code
-
-## 📌 Projects
-- 🔹 Project 1 – Short description  
-- 🔹 Project 2 – Short description  
+- ⚙️ Tools: Git, GitHub, VS Code 
 
 ## 🌟 Activities & Experience
 - Decoration Team Member – ACES  
